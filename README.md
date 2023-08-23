@@ -1,2 +1,1 @@
-# prepcourseJozet1
-empezando a utilizar github
+este proyecto es una prueba de como creer un repositorio y clonarlo desde github a mi escritorio local.
